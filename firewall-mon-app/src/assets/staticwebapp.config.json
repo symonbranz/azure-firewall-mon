@@ -20,9 +20,7 @@
       "redirect": "/",
       "statusCode": 302
     }
-  }
-}
-{
+  },
   "networking": {
     "allowedIpRanges": [
       "10.0.0.0/24",
